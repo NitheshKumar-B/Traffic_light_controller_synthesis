@@ -155,7 +155,7 @@ gui_show
 
 report timing > traffic_timing.rpt
 report power > traffic_power.rpt
-report area > traffic_cell.rpt
+report area > traffic_area.rpt
 report gates > traffic_gates.rpt
 ```   
 
@@ -199,7 +199,7 @@ Gates Report:
 
 ![Screenshot 2025-05-26 113753](https://github.com/user-attachments/assets/8c973269-574b-4683-b5d0-7067a3033a49)
 
-Traffic Cell Report:
+Traffic Area Report:
 
 ![Screenshot 2025-05-26 113827](https://github.com/user-attachments/assets/faa310f7-4e02-4910-8963-3a2adfcbad14)
 
